@@ -1,0 +1,39 @@
+<languages>
+  <fr-FR>
+    <title>Calculateur de SQ</title>
+    <income>income</income>
+    <unspend>unspend</unspend>
+    <calcul>Calculer</calcul>
+    <yoursq>Votre SQ est :</yoursq>
+    <graph_game>Partie</graph_game>
+    <graph_sq>SQ</graph_sq>
+    <graph_title>Evolution de votre SQ</graph_title>
+    <menu_sq>SQ</menu_sq>
+    <menu_item_about>A propos</menu_item_about>
+    <menu_about>?</menu_about>
+    <menu_item_lang>Langues</menu_item_lang>
+    <menu_item_graph>Graphique</menu_item_graph>
+    <menu_item_list>Liste des SQ</menu_item_list>
+    <text_about>Développé par Roux Patrick-Edouard. Contact : proux@univ-savoie.fr | by.peroux@gmail.com. Ce fichier est un exmple d'implémentation du module</text_about>
+    <lang_newlanguage>Nouvelle langue</lang_newlanguage>
+    <main_save>Enregistrer</main_save>
+  </fr-FR>
+  <en-EN>
+    <title>SQ Calculator</title>
+    <income>Income</income>
+    <unspend>Unspend</unspend>
+    <calcul>Calculate</calcul>
+    <yoursq>Your SQ is :</yoursq>
+    <graph_title>Your SQ evolution</graph_title>
+    <graph_sq>SQ</graph_sq>
+    <graph_game>Game</graph_game>
+    <menu_sq>SQ</menu_sq>
+    <menu_about>?</menu_about>
+    <menu_item_about>About</menu_item_about>
+    <menu_item_lang>Languages</menu_item_lang>
+    <menu_item_graph>Grapfics</menu_item_graph>
+    <menu_item_list>SQ list</menu_item_list>
+    <lang_newlanguage>New language</lang_newlanguage>
+    <main_save>Save</main_save>
+  </en-EN>
+</languages>
