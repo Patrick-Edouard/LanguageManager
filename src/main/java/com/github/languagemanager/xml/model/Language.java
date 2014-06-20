@@ -1,4 +1,4 @@
-package xml.model;
+package com.github.languagemanager.xml.model;
 
 
 import org.jdom2.Element;

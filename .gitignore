@@ -18,13 +18,13 @@
 ## Directory-based project format
 .idea/
 # if you remove the above rule, at least ignore user-specific stuff:
-# .idea/workspace.xml
-# .idea/tasks.xml
+# .idea/workspace.com.github.languagemanager.xml
+# .idea/tasks.com.github.languagemanager.xml
 # and these sensitive or high-churn files:
 # .idea/dataSources.ids
-# .idea/dataSources.xml
-# .idea/sqlDataSources.xml
-# .idea/dynamic.xml
+# .idea/dataSources.com.github.languagemanager.xml
+# .idea/sqlDataSources.com.github.languagemanager.xml
+# .idea/dynamic.com.github.languagemanager.xml
 
 ## File-based project format
 *.ipr
