@@ -3,7 +3,7 @@ Language Manager
 
 ### About
 
-This programm is a simple way to use a translation and retriew strings resources in your own software.
+This program is a simple way to use a translation and retriew strings resources in your own software.
 
 
 
